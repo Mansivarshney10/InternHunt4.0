@@ -1,0 +1,1 @@
+[10-Apr-2021 13:35:08 Asia/Kolkata] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/internware/public_html/iitminternware.com/sambhav99/ih4/mansi/includes/fetch_details.php on line 24
